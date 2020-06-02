@@ -21,3 +21,12 @@ Depending on how your machine performance you may need to change the sleep time 
 #for example 10 seconds between each command is called
 sleep 10s
 ```
+
+## Run:
+To run the script just move to the directory where it has been saved and run it
+```
+#moving to Desktop
+cd Desktop/
+#here your script will start running
+./ur3_seq.sh
+```
